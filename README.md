@@ -123,7 +123,7 @@ kubernetes      ClusterIP  10.96.0.1       <none>        443/TCP        18m
 ```
 ## Step 4: Access the App
 
-Use Minikube service
+Use the Minikube service
 
 ```
 minikube service myapp-service
